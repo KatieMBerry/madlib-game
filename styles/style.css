@@ -32,6 +32,10 @@ section {
     border: solid 2px var(--color1);
 }
 
-#story {
+.hidden {
     display: none;
+}
+
+#form {
+    margin: 5px;
 }
